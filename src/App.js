@@ -6,7 +6,7 @@ import {
   createRoutesFromElements,
 } from "react-router-dom";
 
-import Login from "./components/Login";
+
 
 import routes from "./routes/route";
 import { Suspense, lazy } from "react";
